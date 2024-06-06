@@ -17,4 +17,8 @@ This project shows how to use DSPy to extract information from document, specifi
 6. Run Frontend
     - `cd frontend && npm run dev`
 
+If you are following the tutorial the `resume.json` is a properly formatted json object of the parameters that need to be passed to the API.
+
+Tutorial: https://youtu.be/iAPfIZ-gAGc
+
 Enjoy!
