@@ -1,0 +1,49 @@
+# Brandon Phillips
+Cloud & Data Freelancer
+
+## Contacts
+- linkedin.com/in/brandonphil
+- brandon@bpdata.io
+
+
+Over 6 years of professional experience conducting cloud architecture and data end to end design. I enjoy working with innovative teams, that have clear understanding of outcomes they're looking for.
+
+## Education & Learning
+Applied Computer Science
+Northern Arizona University
+Aug 2009 - Dec 2014
+
+## Experience
+### Solutions Architect II
+### Technical Account Manager
+### IT Support Technicial to Engineer I & II
+AWS, Mar 2022 - Mar 2024
+- Architected and Designed end to end data ingestion pipeline with AWS Glue. Designed frontend for self service document export service. Saved 10 hours weekly. Created additional revenue stream for business.
+- Developed end to end notification system with authorization to improve ticketing visibility. Saved 2 hours weekly chasing down owners/resolvers. Generalized notification framework across company.
+- Implemented internal tool to generate client value maps, utilizing generative AI. Saved 4 hours of manual research per Account manager.
+- Assisted customers in ticket resolutions, often meeting to discuss the overall operations and planning future state based on missing processes. Resulting in clear long term 24-48 month plans to incrementally improve operations.
+- Led strategy discovery sessions. Resulting in detailed 12 month plan documenting current state, future state, and intermediate steps to achieve short term 12 month goals.
+- Led 4 warehouse IT infrastructure deployments. Each complete 2-4 weeks ahead of schedule. Each resulted in operations teams enabled to pre-test processes over 2-4 early, opposed to the typical 1 week, 1 process per day.
+- Led internal data extraction effort, from building design documents, utilizing internal development platform, aimed at simplifying pick/pack robotic efficiency. Resulting in lower latency due to optimizing robotic drive pathing.
+
+AWS, Mar 2021 – Mar 2022
+
+Amazon.com, Jan 2018 – May 2021
+
+### Founder/Fullstack Developer
+Ethereal Productions Jan 2015 - Jan 2019
+- Developed client acquisition strategy utilizing Craigslist.
+- Developed responsive websites utilizing Wordpress.
+- Developed responsive web applications utilizing Django.
+
+## Certificates
+- AWS Solutions Architect Associate
+- AWS Solutions Architect Professional
+- Azure Cloud Fundamentals
+- AWS Developer Associate
+
+## Tools
+AWS, Azure, Terraform, Mage AI, Miro, LlamaIndex, Docker
+
+## Skills
+AWS Services, General Network Design, Python Development, LLM Application Development, Solutions Architecture, Data Pipeline Design, Data Modeling, Azure Services, Documentation, ETL, Task Automation
